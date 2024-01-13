@@ -1,4 +1,4 @@
-public class k {
+public class K {
     public static void main(String[] arg){
         int n = 11;
         for (int i = 0;i < n;i++){
